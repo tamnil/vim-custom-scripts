@@ -3,7 +3,7 @@
 " Description: Script de teste
 " Last Modified: julho 17, 2016
 
-fun Teste()
+fun! Teste()
     " code
     echom 'teste'
 endf
