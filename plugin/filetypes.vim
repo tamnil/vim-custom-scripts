@@ -37,6 +37,8 @@ command! FoldIndent execute "set fdm=indent"
 command! FoldMarker execute "set fdm=marker"
 command! FoldManual execute "set fdm=manual"
 command! FoldSyntax execute "set fdm=syntax"
+command! FoldExpr execute "set fdm=expr"
+command! FoldDiff execute "set fdm=diff"
 
 
 
